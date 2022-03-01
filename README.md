@@ -43,8 +43,8 @@ from mysqlmanager.manager import SQLManager
 
 ````py
 local_db = SQLManager('user',
-					'password',
-					'schema')
+'password',
+'schema')
 ````
 
 ### Functions in this class:
