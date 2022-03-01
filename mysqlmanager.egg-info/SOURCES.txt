@@ -1,9 +1,0 @@
-README.md
-setup.py
-mysqlmanager/__init__.py
-mysqlmanager/manager.py
-mysqlmanager.egg-info/PKG-INFO
-mysqlmanager.egg-info/SOURCES.txt
-mysqlmanager.egg-info/dependency_links.txt
-mysqlmanager.egg-info/requires.txt
-mysqlmanager.egg-info/top_level.txt
