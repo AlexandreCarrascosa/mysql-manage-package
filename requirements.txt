@@ -1,4 +1,4 @@
 sqlalchemy
 pymysql
-dateutil
+python-dateutil
 datetime
