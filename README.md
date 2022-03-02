@@ -13,7 +13,7 @@ Currently this package is just available on Test PyPI, to get it you can use:
 pip install -i https://test.pypi.org/simple/ mysqlmanager
 ```
 
-Or clone this repository. :smile:
+Or clone this repository.
 
 ## What it do:
 
