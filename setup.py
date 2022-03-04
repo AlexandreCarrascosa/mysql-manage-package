@@ -9,7 +9,7 @@ with open("requirements.txt", "r") as f:
 
 setup(
         name="mysqlmanager",
-        version="0.0.2",
+        version="0.0.5",
         author="CARRASCOSA, Alexandre",
         description="Personal package to manage Database from MySQL",
         long_description=page_description,

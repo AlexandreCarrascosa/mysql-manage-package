@@ -153,10 +153,10 @@ class SQLManager:
                                'insert a date like YYYY-MM-DD')
                     raise ValueError(message)
                 
-                else:
+            else:
                     
-                    dict_of_values = dict(zip(columns, values))                
-                    insert_data = self.exec(query, dict_of_values)
+              dict_of_values = dict(zip(columns, values))                
+              insert_data = self.exec(query, dict_of_values)
 
 
         
