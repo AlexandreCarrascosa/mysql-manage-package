@@ -159,8 +159,13 @@ class SQLManager:
               insert_data = self.exec(query, dict_of_values)
 
 
-        
-        
+    def disconnect(self):
+        '''
+        Close session and connections with DataBase
+        '''
+        self.conn.close()
+        self.session.close()
+        self.engine.dispose()
         
         
         
